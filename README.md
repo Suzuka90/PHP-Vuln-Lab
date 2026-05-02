@@ -65,7 +65,7 @@
 <br>
 
 ## 📄 Licenza
-MIT.
+MIT
 
 <br>
 ---
